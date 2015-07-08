@@ -1,0 +1,36 @@
+db.sqlite3
+__pycache__
+matchmaker.sublime-workspace
+*.py[cod]
+.Python
+.eggs
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# SQL stuff:
+db.sqlite3
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
